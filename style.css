@@ -1,0 +1,89 @@
+html, body {
+  height: 100%;
+  max-width: 100%;
+  background-color: #0B212E;
+}
+.nav-item{
+  padding-left: 20px;
+}
+.img11{
+
+   height: 150px;
+width:150px;
+}
+.img2{
+  padding-top: 20px;
+   height: 90%;
+padding-left: 20px;
+  padding-right: 20px;
+}
+.img3{
+  width: 100%;
+  height: 95%;
+padding-top: 30px;
+}
+.img8{
+  width: 100%;
+  height: 600px;
+padding-top: 30px;
+}
+.row5{
+  background-color:#B4B8AB;
+  border-radius: 25px;
+margin-top: 10px;
+}
+.row4{
+  background-color:#284B63;
+  border-radius: 25px;
+margin-top: 10px;
+}
+.div3{background-color:#284B63;
+  border-radius: 25px;
+margin: 10px;}
+.row6{
+  height:650px;
+margin-top: 10px;
+  background-color: #284B63;
+  border-radius: 25px;
+}
+.row7{
+margin-top: 25px;
+  background-color: #284B63;
+  border-radius: 25px;
+}
+.img4{
+  width: 100%;
+  height: 90%;
+  padding-top:25px;
+}
+p1 { font-size: 25px;
+    color: lightgray;
+    font-family: Copperplate;
+   -webkit-text-stroke: .35px white; 
+   }
+p2 { font-size: 25px;
+    color: #dec38b;
+    font-family: Copperplate;
+      -webkit-text-stroke: .25px black;
+   }
+h1 {
+  -webkit-text-stroke: 2px black;
+  font-size:67px;
+  font-weight: bold;
+  color: white;
+  font-family: Copperplate;
+}
+.container-fluid{
+  padding: 0px 50px;
+padding-bottom: 20px;
+}
+#container2{
+  padding: 30px 0px;
+}
+.navbar-brand {
+ font-size: 30px;
+  font-weight: bold;
+}
+.row2 {
+  height: 800px;
+}
